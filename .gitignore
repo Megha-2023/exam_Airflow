@@ -2,3 +2,6 @@ __pycache__/
 .env
 raw_files/
 logs/
+/clean_data
+/logs
+/raw_files
